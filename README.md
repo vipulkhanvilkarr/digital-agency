@@ -2,7 +2,7 @@
 
 Welcome to the Digital Agency project! This is a modern, responsive web application built with React and Vite. The project showcases various features and services offered by a digital agency.
 
-![Digital Agency](src/assets/hero.png)
+![Digital Agency](src/assets/team.png )
 
 ## Features
 
